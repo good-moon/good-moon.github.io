@@ -1,7 +1,3 @@
-# goodmoon
-
-We make apps. Thats it.
-
 # Members
 
 |  Shotaro Tao  |  Natsuki Inaba  |
